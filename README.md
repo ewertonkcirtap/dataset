@@ -1,5 +1,5 @@
-# Repositório de dataset's
+# Repositório de Dataset's
 
-Repositório de Dataset's públicos e dados fictícios.
+Repositório de dataset's públicos e dados fictícios.
 
 
